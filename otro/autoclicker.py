@@ -11,4 +11,4 @@ while True:
     screen_width, screen_height = pyautogui.size()
     center_x, center_y = screen_width // 2, screen_height // 2
     pyautogui.click(center_x, center_y)
-    time.sleep(5)
+    time.sleep(3)
